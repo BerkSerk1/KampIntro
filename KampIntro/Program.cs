@@ -6,7 +6,12 @@ namespace KampIntro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int sayi = 1;
+            for (var i = 1; i < 5; i++)
+            {
+                Console.WriteLine(i);
+                sayi += 1;
+            }
         }
     }
 }

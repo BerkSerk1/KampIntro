@@ -21,7 +21,7 @@ namespace DegerVeReferansTipler
                 // stack                 heap
                 //101/sayilar1           101/  [10,20,30]
                 //102/sayilar2           102/  [100,200,300]
-                // 17. satırdan sonra Garbage collector boşta kalan veriyi siler yani 101 referanslıyı
+                // veri değişimi olduktan sonra ilk dizileri Garbage collector boşta kalan veriyi siler.
             }
         }
 }
