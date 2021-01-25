@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.exe
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.deps.json
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.json
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\ACER\source\repos\KampIntro\OOP3\bin\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.AssemblyInfo.cs
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.dll
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.pdb
+C:\Users\ACER\source\repos\KampIntro\OOP3\obj\Debug\netcoreapp3.1\OOP3.genruntimeconfig.cache
